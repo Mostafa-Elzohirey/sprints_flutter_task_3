@@ -12,5 +12,6 @@ make signup page to access the shopping screen
    4. the confirm password makes sure the password is identical to the original
 4. and then a signup button that verifies all form fields and if they are all correct shows an alert dialog that says sign in successful and when closed navigates to the shopping screen
 
-the shopping screen code is [here](https://github.com/Mostafa-Elzohirey/sprints_flutter_task_2.git)
+the shopping screen code is [here](https://github.com/Mostafa-Elzohirey/sprints_flutter_task_2.git).
+
 link to the [validators package](https://pub.dev/packages/validators)
